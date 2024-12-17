@@ -38,3 +38,6 @@ make
 ```
 ### 5. Installation of Jupyter
 To run the pipeline you need to install Jupyter, a web-based interactive computing platform. Follow this link https://jupyter.org/install to install it on Ubuntu.
+
+
+After completing all the necessary installations, download the files into the "data" folder and add the required file/folder paths in the ASOS_PIPELINE.ipynb file.
