@@ -40,4 +40,4 @@ make
 To run the pipeline you need to install Jupyter, a web-based interactive computing platform. Follow this link https://jupyter.org/install to install it on Ubuntu.
 
 
-After completing all the necessary installations, download the files into the "data" folder and add the required file/folder paths in the ASOS_PIPELINE.ipynb file.
+After completing all the necessary installations, download the hg38 fasta file, the files into the "data" folder and add the required file/folder paths in the ASOS_PIPELINE.ipynb file.
