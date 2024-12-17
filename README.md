@@ -36,3 +36,5 @@ cd bcftools
  #   autoheader && autoconf && ./configure --enable-libgsl --enable-perl-filters
 make
 ```
+### 5. Installation of Jupyter
+To run the pipeline you need to install Jupyter, a web-based interactive computing platform. Follow this link https://jupyter.org/install to install it on Ubuntu.
